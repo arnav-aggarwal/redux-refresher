@@ -1,0 +1,23 @@
+{
+  "name": "redux-refresher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arnav-aggarwal/redux-refresher.git",
+  "author": "Arnav <arnav.aggarwal@thecontrolgroup.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^2.4.1"
+  }
+}
